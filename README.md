@@ -36,7 +36,7 @@ This library was created as part of a larger project focused on building a tacti
 ## Repository Structure
 
 ```
- eagle-library/
+ /
  ├── lib/PIC32MM0256GPM028_UQFN.lbr      # Eagle library file
  ├── img/
  │   ├── package.png                     # UQFN-28 package image
