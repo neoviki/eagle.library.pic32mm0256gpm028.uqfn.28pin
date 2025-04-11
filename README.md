@@ -36,13 +36,15 @@ This library was created as part of a larger project focused on building a tacti
 ## Repository Structure
 
 ```
-eagle-library/
-├── lib/PIC32MM0256GPM028_UQFN.lbr      # Eagle library file
-├── img/
-│   ├── package.png                     # UQFN-28 package image
-│   └── device.png                      # Symbol/device image
-└── README.md                           # Project documentation
-```
+ eagle-library/
+ ├── lib/PIC32MM0256GPM028_UQFN.lbr      # Eagle library file
+ ├── img/
+ │   ├── package.png                     # UQFN-28 package image
+ │   └── device.png                      # Symbol/device image
+ ├── docs/datasheet                      # PIC32MM datasheet
+ ├── docs/pin_mapping.pdf                # Pin Mapping I use in Tactile Controler Project
+ └── README.md                           # Project documentation
+ ```
 
 ## How to Use
 
