@@ -47,7 +47,7 @@ eagle-library/
 ## How to Use
 
 1. Open Eagle CAD.
-2. Add `pic32mm0256gpm028.lbr` to your library folder.
+2. Add `PIC32MM0256GPM028_UQFN.lbr` to your library folder.
 3. Load the library via the Eagle control panel.
 4. Use the symbol and package in your schematic and board layout.
 
